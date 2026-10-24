@@ -130,7 +130,7 @@ Desenvolvido com dedicação por:
 
 *   **[Seu Nome/Nome da Equipe]** 
     *   GitHub: [@Rafael-Santos-Tech](https://github.com/Rafael-Santos-Tech) 
-    *   GitHub: [@Cauaandrade2000](https://github.com/auaandrade2000)
+    *   GitHub: [@Cauaandrade2000](https://github.com/Cauaandrade2000)
      
     *   LinkedIn: [@Rafael dos Santos](https://linkedin.com/in/rafael-dos-santos-ferreira-lima-4996a942b)
     *   LinkedIn: [@Cauã Andrade](https://linkedin.com/in/cauã-andrade-54b35334b)
