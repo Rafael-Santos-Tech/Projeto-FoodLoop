@@ -406,7 +406,7 @@ function iniciarFormularios() {
        que usuário e senha nunca apareçam na URL (o formulário era method GET). */
     $$('form.form-auth').forEach((form) => form.addEventListener('submit', (e) => {
         e.preventDefault();
-        window.location.href = 'home.html';
+        window.location.href = 'index.html';
     }));
 }
 
