@@ -27,6 +27,10 @@
 
 ---
 
+## Hospedagem : [Site](https://rafael-santos-tech.github.io/Projeto-FoodLoop/)
+
+---
+
 ## 🍕 Sobre o Projeto
 
 O **FoodLoop** é uma aplicação web voltada para o setor de *food service* (restaurantes e lanchonetes). O projeto consiste em uma interface *Front-end* completa que simula a experiência de um usuário desde o momento em que ele acessa o cardápio digital até a finalização do seu pedido.
