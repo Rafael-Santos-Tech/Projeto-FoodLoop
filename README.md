@@ -140,4 +140,4 @@ Desenvolvido com dedicação por:
     *   LinkedIn: [@Cauã Andrade](https://linkedin.com/in/cauã-andrade-54b35334b)
 
 ---
-<p align="center">Feito com ❤️ para saciar a sua fome de código!</p>
+<p align="center">Feito com ❤️ para saciar a sua fome de código!</p> 
